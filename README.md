@@ -4,7 +4,7 @@
 <p align="center">
   👉<a href="mailto:gbhfns90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=style=for-the-badge&logo=Gmail&logoColor=white" /></a>👈&nbsp;&nbsp;&nbsp;&nbsp;
   👉<a href="https://github.com/3eight70"><img src="https://img.shields.io/badge/-Github-000?style=style=for-the-badge&logo=Github&logoColor=white" /></a>👈&nbsp;&nbsp;&nbsp;&nbsp;
-  👉<a href="https://t.me/danya70ru"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" /></a>👈&nbsp;&nbsp;&nbsp;&nbsp;
+  👉<a href="https://t.me/xDEAD_B0B"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" /></a>👈&nbsp;&nbsp;&nbsp;&nbsp;
   <!--
   -->
 </p>
@@ -19,12 +19,14 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
    <br />
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+   <br />
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
 </p>
 
 <br/>  
